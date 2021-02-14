@@ -82,7 +82,8 @@
   },
   "include": [
     "src/**/*.ts",
-    "spec/**/*.ts"
+    "spec/**/*.ts",
+    "environment.d.ts"
   ],
   "exclude": [
     "src/public/"
